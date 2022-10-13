@@ -112,7 +112,7 @@ author:
   links:
     - label: "About me"
       icon: "fas fa-fw fa-user"
-      url: "https://won5830.me/about.html"
+      url: "https://wonjunlee.me/about.html"
     - label: "Github"
       icon: "fas fa-fw fa-github"
       url: "https://github.com/won5830"
@@ -131,7 +131,7 @@ footer:
   links:
     - label: "About me"
       icon: "fab fa-fw fa-user"
-      url: "https://won5830.me/about.html"
+      url: "https://wonjunlee.me/about.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/won5830"
