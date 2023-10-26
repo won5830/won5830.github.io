@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Won-Jun Lee"
 description              : "Won-Jun's Blog."
-url                      : "https://wonjunlee.me"
+url                      : "https://won5830.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "won5830/won5830.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "About me"
       icon: "fas fa-fw fa-user"
-      url: "https://wonjunlee.me/about.html"
+      url: "https://won5830.github.io/about.html"
     - label: "Github"
       icon: "fas fa-fw fa-github"
       url: "https://github.com/won5830"
@@ -131,7 +131,7 @@ footer:
   links:
     - label: "About me"
       icon: "fab fa-fw fa-user"
-      url: "https://wonjunlee.me/about.html"
+      url: "https://won5830.github.io/about.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/won5830"
